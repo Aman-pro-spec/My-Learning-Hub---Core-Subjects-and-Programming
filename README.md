@@ -12,9 +12,8 @@ Welcome to my personal knowledge repository. Here, I track my daily progress in 
 
 | Date | Subject | Topic Covered | Status |
 | :--- | :--- | :--- | :--- |
-| **Jan 20** | DBMS | Normalization (1NF, 2NF, 3NF) | ✅ Completed |
-| **Jan 19** | C++ OOPS | Virtual Functions & Abstract Classes | ✅ Completed |
-| **Jan 18** | OS | CPU Scheduling Algorithms | 🔄 Revise |
+| **Jan 20** | OS | CPU Scheduling Algorithms| ✅ Completed |
+
 
 ---
 
