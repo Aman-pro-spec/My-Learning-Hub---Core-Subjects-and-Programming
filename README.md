@@ -13,7 +13,7 @@ Welcome to my personal knowledge repository. Here, I track my daily progress in 
 | Date | Subject | Topic Covered | Status |
 | :--- | :--- | :--- | :--- |
 | **Jan 20** | OS | CPU Scheduling Algorithms| ✅ Completed |
-
+| **Jan 21** | Aptitude | Average| ✅ Completed |
 
 ---
 
