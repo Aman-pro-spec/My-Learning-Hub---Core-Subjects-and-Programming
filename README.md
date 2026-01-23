@@ -14,7 +14,7 @@ Welcome to my personal knowledge repository. Here, I track my daily progress in 
 | :--- | :--- | :--- | :--- |
 | **Jan 20** | OS | CPU Scheduling Algorithms| ✅ Completed |
 | **Jan 21** | Aptitude | Average| ✅ Completed |
-
+| **Jan 22** | Aptitude | Logical Reasoning| ✅ Completed |
 ---
 
 ## 🧠 Core Computer Science Subjects
