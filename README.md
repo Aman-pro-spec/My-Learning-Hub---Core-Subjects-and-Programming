@@ -17,6 +17,7 @@ Welcome to my personal knowledge repository. Here, I track my daily progress in 
 | **Jan 22** | Aptitude | Logical Reasoning| ✅ Completed |
 | **Jan 23** | Aptitude | Logical Reasoning Part - 2| ✅ Completed |
 | **Jan 24** | Aptitude | Percentage| ✅ Completed |
+| **Jan 25** | Reasoning Aptitude | Blood Relation| ✅ Completed |
 ---
 
 ## 🧠 Core Computer Science Subjects
