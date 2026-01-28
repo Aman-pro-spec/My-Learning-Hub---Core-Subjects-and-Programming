@@ -20,7 +20,7 @@ Welcome to my personal knowledge repository. Here, I track my daily progress in 
 | **Jan 25** | Reasoning Aptitude | Blood Relation| ✅ Completed |
 | **Jan 26** | Aptitude | Simple Interest| ✅ Completed |
 | **Jan 27** | OS | Basics of OS and Types of OS| ✅ Completed |
-| **Jan 26** | Aptitude | Compound Interest| ✅ Completed |
+| **Jan 28** | Aptitude | Compound Interest| ✅ Completed |
 ---
 
 ## 🧠 Core Computer Science Subjects
