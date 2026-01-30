@@ -21,6 +21,7 @@ Welcome to my personal knowledge repository. Here, I track my daily progress in 
 | **Jan 26** | Aptitude | Simple Interest| ✅ Completed |
 | **Jan 27** | OS | Basics of OS and Types of OS| ✅ Completed |
 | **Jan 28** | Aptitude | Compound Interest| ✅ Completed |
+| **Jan 29** | Machine Learning | KNN| ✅ Completed |
 ---
 
 ## 🧠 Core Computer Science Subjects
